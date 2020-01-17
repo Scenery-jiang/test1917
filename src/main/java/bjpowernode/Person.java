@@ -10,4 +10,7 @@ public class Person {
     private Integer age;
 
     private String phone;
+
+
+    private String email;
 }
